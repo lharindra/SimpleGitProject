@@ -1,1 +1,1 @@
-# SimpleGitProject
+# SimpleCustomerApp
